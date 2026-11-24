@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini-Courier Planner 
 
 ## Phase 1: Courier Problem Design & System Architecture
@@ -30,3 +31,6 @@
 1. Install matplotlib (for runtime charts): `pip install matplotlib`
 2. Run the application: `python courier_planner.py`
 3. Check terminal output for the DP table, selected parcels, shortest route, and benchmark table, plus the generated `runtime_analysis.png` chart.
+=======
+# DAA-CAPSTONE
+>>>>>>> 60413e73606b9c2dfb08e1026b321c351b550c6b
